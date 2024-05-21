@@ -1,9 +1,13 @@
 # AC2F-Arquitetura
 AC2 Parte 2 referente á disciplina de Arquitetura Web.
--Integrantes: Leonardo Pelegrin - 223538
-              Luis Felipe       - 223438
-              Maria Eduarda     - 222901
-              Wesley            - 223658
+
+
+# Integrantes:                                                
+##   Leonardo Pelegrin - 223538
+##   Luis Felipe       - 223438
+##   Wesley            - 223658
+##   Maria Eduarda     - 222901
+              
 
 
 
